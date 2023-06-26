@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Program {
-    public class Authenticator {
+    public class Login {
 
 
         public static void main(String[] args) {
